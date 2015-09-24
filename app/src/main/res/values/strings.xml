@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lesson9PopupMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu1">Popup menu item 1</string>
+    <string name="menu1_chose">Popup menu item 1 chose</string>
+    <string name="menu2">Popup menu item 2</string>
+    <string name="menu2_chose">Popup menu item 2_chose</string>
+    <string name="menu3">Popup menu item 3</string>
+    <string name="menu3_chose">Popup menu item _chose</string>
+    <string name="menu4">Popup menu item 4</string>
+    <string name="menu4_chose">Popup menu item 4_chose</string>
+    <string name="menu5">Popup menu item 5</string>
+    <string name="menu5_chose">Popup menu item 5_chose</string>
+    <string name="menu6">Popup menu item 6</string>
+    <string name="menu6_chose">Popup menu item 6_chose</string>
+    <string name="dismiss">onDismiss</string>
+    <string name="sub_menu1">Popup submenu item 1</string>
+</resources>
